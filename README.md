@@ -11,14 +11,15 @@
 
 | 系统 | 文件 |
 |---|---|
-| Windows 10 / 11 (64 位) | `红果短剧-版本号-windows-amd64.zip` |
-| macOS (Intel 与 Apple 芯片通用) | `红果短剧-版本号-macos-universal.zip` |
+| Windows 10 / 11 (64 位) | `hongguo-版本号-windows-amd64.zip` |
+| macOS (Intel 与 Apple 芯片通用) | `hongguo-版本号-macos-universal.zip` |
 
 ## 安装与运行
 
 **Windows**
 
 1. 解压 zip, 双击 `红果短剧.exe`.
+   (以后有新版本时程序会提示, 点 "立即重启更新" 即可自动更新.)
 2. 首次运行如果系统缺少 **WebView2 运行时** 或 **HEVC 视频扩展**, 程序会自动安装 (WebView2 需要联网).
 3. 请在本机直接运行; 远程桌面 / 虚拟机 / Windows 服务器通常没有显卡硬件解码, 视频可能只有声音没有画面.
 
