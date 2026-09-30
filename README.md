@@ -7,7 +7,9 @@
 
 ## 下载
 
-到 [Releases](../../releases/latest) 页面下载最新版本:
+**下载页 (国内可直接打开): https://hongguo.235698.xyz**
+
+也可以到本仓库的 [Releases](../../releases/latest) 页面下载:
 
 | 系统 | 文件 |
 |---|---|
