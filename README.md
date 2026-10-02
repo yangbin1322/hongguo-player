@@ -44,6 +44,22 @@
 - 收藏、点赞、观看历史 (未登录时保存在本地, 登录后可上传)
 - 小窗模式与隐身模式、浅色 / 深色主题
 
+## 界面预览
+
+**推荐: 沉浸式刷剧**
+
+![推荐](docs/screenshots/recommend.png)
+
+| 找剧 | 排行榜 |
+|---|---|
+| ![找剧](docs/screenshots/search.png) | ![排行榜](docs/screenshots/rank.png) |
+| **新剧** | **观看历史** |
+| ![新剧](docs/screenshots/new.png) | ![观看历史](docs/screenshots/history.png) |
+| **我的收藏** | **我的点赞** |
+| ![我的收藏](docs/screenshots/favorites.png) | ![我的点赞](docs/screenshots/likes.png) |
+| **我的预约** | |
+| ![我的预约](docs/screenshots/reservations.png) | |
+
 ## 联系作者
 
 - 作者: 洋滨
