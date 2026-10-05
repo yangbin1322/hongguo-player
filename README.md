@@ -5,6 +5,22 @@
 > 本项目为**非官方**的第三方客户端, 与红果短剧官方无关. 仅供个人学习交流, 禁止倒卖.
 > 本仓库只用于发布安装包, 不包含源代码.
 
+## 界面预览
+
+**推荐: 沉浸式刷剧**
+
+![推荐](docs/screenshots/recommend.png)
+
+| 找剧 | 排行榜 |
+|---|---|
+| ![找剧](docs/screenshots/search.png) | ![排行榜](docs/screenshots/rank.png) |
+| **新剧** | **观看历史** |
+| ![新剧](docs/screenshots/new.png) | ![观看历史](docs/screenshots/history.png) |
+| **我的收藏** | **我的点赞** |
+| ![我的收藏](docs/screenshots/favorites.png) | ![我的点赞](docs/screenshots/likes.png) |
+| **我的预约** | |
+| ![我的预约](docs/screenshots/reservations.png) | |
+
 ## 下载
 
 **下载页 (国内可直接打开): https://hongguo.235698.xyz**
@@ -46,22 +62,6 @@
 - 小窗模式与隐身模式、浅色 / 深色主题
 - 窗口全屏 (Windows 标题栏右上角或 F11, 盖住任务栏); macOS 使用系统红绿灯与菜单栏
 - 软件解码兜底: 硬件解码不可用时自动启用, 也可在弹幕设置里手动勾选
-
-## 界面预览
-
-**推荐: 沉浸式刷剧**
-
-![推荐](docs/screenshots/recommend.png)
-
-| 找剧 | 排行榜 |
-|---|---|
-| ![找剧](docs/screenshots/search.png) | ![排行榜](docs/screenshots/rank.png) |
-| **新剧** | **观看历史** |
-| ![新剧](docs/screenshots/new.png) | ![观看历史](docs/screenshots/history.png) |
-| **我的收藏** | **我的点赞** |
-| ![我的收藏](docs/screenshots/favorites.png) | ![我的点赞](docs/screenshots/likes.png) |
-| **我的预约** | |
-| ![我的预约](docs/screenshots/reservations.png) | |
 
 ## 常见问题
 
